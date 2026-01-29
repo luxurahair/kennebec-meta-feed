@@ -2,7 +2,8 @@ import csv
 import re
 from pathlib import Path
 
-SRC = "/Users/danielgiroux/kenbot/feeds/meta_used.csv"
+# ✅ FIX 1: Path relatif au lieu de hardcodé
+SRC = Path(__file__).parent / "docs" / "meta_used.csv"
 OUT = "docs/feeds/meta_vehicle.csv"
 
 HEADERS = [
@@ -25,7 +26,7 @@ def clean_text(s: str) -> str:
     return (s or "").replace("\r", " ").replace("\n", " ").strip()
 
 def main():
-    if not Path(SRC).exists():
+    if not SRC.exists():
         raise SystemExit(f"❌ Source introuvable: {SRC}")
 
     Path("docs/feeds").mkdir(parents=True, exist_ok=True)
@@ -51,7 +52,7 @@ def main():
                 "description": clean_text(r.get("description")) or f"{title} — Véhicule inspecté et prêt à partir.",
                 "availability": "in stock",
                 "condition": "used",
-                "price": "1 CAD",   # ⚠️ prix minimal pour forcer Meta
+                "price": r.get("price") or "",  # ✅ FIX 2: Utilise le VRAI prix
                 "link": r.get("url") or r.get("link"),
                 "image_link": r.get("image") or r.get("image_link"),
                 "brand": brand,
@@ -66,7 +67,7 @@ def main():
             w.writerow(row_out)
             kept += 1
 
-    print("✅ meta_vehicle.csv généré avec fallback forcé")
+    print("✅ meta_vehicle.csv généré avec VRAIS prix")
     print(f"✅ Articles gardés: {kept} | ⛔ Ignorés: {skipped}")
 
 if __name__ == "__main__":
