@@ -3,7 +3,7 @@ name: Build Meta feed (used inventory)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 7 * * *"
+    - cron: "15 7 * * *"  # 7h15 AM UTC tous les jours
 
 permissions:
   contents: write
@@ -11,29 +11,76 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@v4
-
+      
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
+      
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: Build feed
+      
+      - name: Run catalog scraper
         run: |
           python catalog_used.py
           test -f docs/meta_used.csv
+          echo "✅ meta_used.csv généré:"
           head -n 3 docs/meta_used.csv
-
+      
+      # ✅ NOUVELLE ÉTAPE 1: Générer meta_vehicle.csv avec vrais prix
+      - name: Build vehicle feed
+        run: |
+          python build_vehicle_feed.py
+          test -f docs/feeds/meta_vehicle.csv
+          echo "✅ meta_vehicle.csv généré avec VRAIS prix:"
+          head -n 3 docs/feeds/meta_vehicle.csv
+      
+      # ✅ NOUVELLE ÉTAPE 2: Upload vers Supabase Storage
+      - name: Upload to Supabase Storage
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          python - <<'EOF'
+          import os
+          from pathlib import Path
+          from supabase import create_client
+          
+          # Config
+          url = os.environ.get("SUPABASE_URL")
+          key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
+          
+          if not url or not key:
+              print("⚠️  Secrets Supabase manquants - skip upload")
+              exit(0)
+          
+          sb = create_client(url, key)
+          
+          # Upload meta_vehicle.csv
+          feed_path = Path("docs/feeds/meta_vehicle.csv")
+          if feed_path.exists():
+              content = feed_path.read_bytes()
+              sb.storage.from_("kennebec-outputs").upload(
+                  "feeds/meta_vehicle.csv",
+                  content,
+                  {"content-type": "text/csv; charset=utf-8", "upsert": "true"}
+              )
+              print(f"✅ meta_vehicle.csv uploadé: {len(content)} bytes")
+          else:
+              print("❌ meta_vehicle.csv introuvable")
+              exit(1)
+          EOF
+      
+      # Commit les CSVs mis à jour
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/meta_used.csv docs/.nojekyll
-          git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Update meta_used.csv"
+          git add docs/
+          git diff --cached --quiet && echo "✅ No changes to commit" && exit 0
+          git commit -m "chore: Update Meta feed CSVs [skip ci]"
           git push
