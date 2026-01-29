@@ -1,4 +1,4 @@
-on as deja ca name: Build Meta feed (used inventory)
+name: Build Meta feed (used inventory)
 on:
   workflow_dispatch:
   schedule:
