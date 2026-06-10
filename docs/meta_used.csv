@@ -3,7 +3,7 @@ id,title,description,availability,condition,price,link,image_link,brand
 KM: 119363",in stock,used,19995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/grand-cherokee/jeep-grand-cherokee-2018-id38487766,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/grand-cherokee-laredo-alt/2018/38487766/38487766_01019_2018-jeep-grand-cherokee-laredo-alt_001.jpg,Kennebec Dodge Chrysler
 38456842,Jeep GLADIATOR SPORT  2023,"Jeep GLADIATOR SPORT  2023
 KM: 28878",in stock,used,42995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/gladiator-sport/jeep-gladiator-sport-2023-id38456842,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/gladiator-sport/2023/38456842/38456842_06212_2023-jeep-gladiator-sport_001.jpg,Kennebec Dodge Chrysler
-38431242,Jeep GRAND CHEROKEE SUMMIT/SUM RESERVE 2023,"Jeep GRAND CHEROKEE SUMMIT/SUM RESERVE 2023
+38431242,Jeep GRAND CHEROKEE SUMMIT/SUM SUMMIT 2023,"Jeep GRAND CHEROKEE SUMMIT/SUM SUMMIT 2023
 KM: 29309",in stock,used,52995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/grand-cherokee-summitsum/jeep-grand-cherokee-summitsum-2023-id38431242,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/grand-cherokee-summit-sum/2023/38431242/38431242_02765_2023-jeep-grand-cherokee-summit-sum_001.jpg,Kennebec Dodge Chrysler
 38425899,Jeep GR CHEROKE  2023,"Jeep GR CHEROKE  2023
 KM: 29568",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/gr-cheroke/jeep-gr-cheroke-2023-id38425899,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/gr-cheroke/2023/38425899/38425899_04690_2023-jeep-gr-cheroke_001.jpg,Kennebec Dodge Chrysler
@@ -23,6 +23,8 @@ KM: 48106",in stock,used,42995 CAD,https://www.kennebecdodge.ca/fr/inventaire-oc
 KM: 23599",in stock,used,35995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/wrangler-sport/jeep-wrangler-sport-2024-id37476811,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/wrangler-sport/2024/37476811/37476811_02174_2024-jeep-wrangler-sport_001.png,Kennebec Dodge Chrysler
 34326148,Jeep COMPASS HIGH ALTITUDE  2015,"Jeep COMPASS HIGH ALTITUDE  2015
 KM: 101407",in stock,used,9495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/compass-high-altitude/jeep-compass-high-altitude-2015-id34326148,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/compass-sport/2015/34326148/34326148_04680_2015-jeep-compass-sport_001.png,Kennebec Dodge Chrysler
+38599177,Jeep GRAND CHEROKEE L LIMITED  2023,"Jeep GRAND CHEROKEE L LIMITED  2023
+KM: 22543",in stock,used,41995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/grand-cherokee-l-limited/jeep-grand-cherokee-l-limited-2023-id38599177,https://img.sm360.ca/images/web/kennebecdodgechryslerincorporated-203/4138/logo-header1690909139246.png,Kennebec Dodge Chrysler
 38578946,Jeep COMPASS LATITUDE  2018,"Jeep COMPASS LATITUDE  2018
 KM: 92952",in stock,used,13995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/compass-latitude/jeep-compass-latitude-2018-id38578946,https://img.sm360.ca/images/web/kennebecdodgechryslerincorporated-203/4138/logo-header1690909139246.png,Kennebec Dodge Chrysler
 38162161,Chrysler Pacifica Hybrid  2024,"Chrysler Pacifica Hybrid  2024
@@ -51,10 +53,8 @@ KM: 1800",in stock,used,76995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occ
 KM: 89012",in stock,used,38995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/ram/1500-classic-slt-night/ram-1500-classic-slt-night-2022-id38586887,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/ram/1500-classic-slt/2022/38586887/38586887_07495_2022-ram-1500-classic-slt_001.jpg,Kennebec Dodge Chrysler
 38561944,Ram 2500 POWERWAGON  2023,"Ram 2500 POWERWAGON  2023
 KM: 86230",in stock,used,69995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/ram/2500-powerwagon/ram-2500-powerwagon-2023-id38561944,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/ram/2500/2023/38561944/38561944_02901_2023-ram-2500_001.jpg,Kennebec Dodge Chrysler
-38541114,Ram 1500 Sport 2022,"Ram 1500 Sport 2022
-KM: 45106",in stock,used,49995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/ram/1500/ram-1500-2022-id38541114,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/ram/1500/2022/38541114/38541114_09892_2022-ram-1500_001.jpg,Kennebec Dodge Chrysler
-38366397,Ram 1500 BIG HORN  2025,"Ram 1500 BIG HORN  2025
-KM: 21800",in stock,used,59995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/ram/1500-big-horn/ram-1500-big-horn-2025-id38366397,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/ram/1500-big-horn/2025/38366397/38366397_01742_2025-ram-1500-big-horn_001.jpg,Kennebec Dodge Chrysler
+38541114,Ram 1500 SPORT SPORT 2022,"Ram 1500 SPORT SPORT 2022
+KM: 45106",in stock,used,49995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/ram/1500-sport/ram-1500-sport-2022-id38541114,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/ram/1500/2022/38541114/38541114_09892_2022-ram-1500_001.jpg,Kennebec Dodge Chrysler
 38386681,Ram 2500 BIG HORN BIG HORN 2025,"Ram 2500 BIG HORN BIG HORN 2025
 KM: 1348",in stock,used,79900 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/ram/2500-big-horn/ram-2500-big-horn-2025-id38386681,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/ram/2500-big-horn/2025/38386681/38386681_07968_2025-ram-2500-big-horn_001.jpeg,Kennebec Dodge Chrysler
 38317970,Ram PROMASTER 2500 136'' HIGH  2025,"Ram PROMASTER 2500 136'' HIGH  2025
