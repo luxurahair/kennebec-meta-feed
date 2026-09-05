@@ -1,10 +1,10 @@
 id,title,description,availability,condition,price,link,image_link,brand
 39018544,Jeep COMPASS TRAILHAWK  2025,"Jeep COMPASS TRAILHAWK  2025
 KM: 57580",in stock,used,31995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/compass-trailhawk/jeep-compass-trailhawk-2025-id39018544,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/compass/2025/39018544/39018544_08251_2025-jeep-compass_001.jpg,Kennebec Dodge Chrysler
-38991874,Jeep WRANGLER SPORT SPORT ALT 2023,"Jeep WRANGLER SPORT SPORT ALT 2023
-KM: 44433",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/wrangler-sport/jeep-wrangler-sport-2023-id38991874,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/wrangler-sport/2023/38991874/38991874_08584_2023-jeep-wrangler-sport_001.jpg,Kennebec Dodge Chrysler
 38991865,Jeep WRANGLER SPORT SPORT 2025,"Jeep WRANGLER SPORT SPORT 2025
 KM: 13012",in stock,used,42995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/wrangler-sport/jeep-wrangler-sport-2025-id38991865,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/wrangler/2025/38991865/38991865_04607_2025-jeep-wrangler_001.jpg,Kennebec Dodge Chrysler
+38991874,Jeep WRANGLER SPORT SPORT ALT 2023,"Jeep WRANGLER SPORT SPORT ALT 2023
+KM: 44433",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/wrangler-sport/jeep-wrangler-sport-2023-id38991874,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/wrangler-sport/2023/38991874/38991874_08584_2023-jeep-wrangler-sport_001.jpg,Kennebec Dodge Chrysler
 38642926,Jeep WRANGLER SAHARA NOIR 2025,"Jeep WRANGLER SAHARA NOIR 2025
 KM: 21220",in stock,used,47995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/wrangler-sahara/jeep-wrangler-sahara-2025-id38642926,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/wrangler-sahara/2025/38642926/38642926_05390_2025-jeep-wrangler-sahara_001.jpg,Kennebec Dodge Chrysler
 38605845,Jeep GRAND CHEROKEE SUMMIT/SUM  2023,"Jeep GRAND CHEROKEE SUMMIT/SUM  2023
@@ -25,10 +25,10 @@ KM: 21002",in stock,used,44995 CAD,https://www.kennebecdodge.ca/fr/inventaire-oc
 KM: 11500",in stock,used,77995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/challenger-rt-scat-pack/dodge-challenger-rt-scat-pack-2023-id38126197,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/challenger-r-t-scat-pack/2023/38126197/38126197_04125_2023-dodge-challenger-r-t-scat-pack_027.png,Kennebec Dodge Chrysler
 37482214,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
 KM: 22",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482214,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet-r-t-plus/2024/37482214/37482214_01246_2024-dodge-hornet-r-t-plus_001.png,Kennebec Dodge Chrysler
-37482213,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
-KM: 22",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482213,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482213/37482213_01788_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
 37482212,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
 KM: 22",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482212,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482212/37482212_01393_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
+37482213,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
+KM: 22",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482213,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482213/37482213_01788_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
 37482211,Dodge HORNET R/T  2024,"Dodge HORNET R/T  2024
 KM: 22",in stock,used,39995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt/dodge-hornet-rt-2024-id37482211,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482211/37482211_08986_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
 35500074,Dodge CHALLENGER R/T SCAT PACK  2023,"Dodge CHALLENGER R/T SCAT PACK  2023
@@ -59,7 +59,7 @@ KM: 91106",in stock,used,22995 CAD,https://www.kennebecdodge.ca/fr/inventaire-oc
 KM: 45012",in stock,used,26995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/harley-davidson/fltrx/harley-davidson-fltrx-2015-id39034695,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/harley-davidson/fltrx/2015/39034695/39034695_05928_2015-harley-davidson-fltrx_001.jpeg,Kennebec Dodge Chrysler
 38991867,Audi A3  2026,"Audi A3  2026
 KM: 32364",in stock,used,35995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/audi/a3/audi-a3-2026-id38991867,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/audi/a3/2026/38991867/38991867_08105_2026-audi-a3_001.jpg,Kennebec Dodge Chrysler
-38991870,Ford TRANSIT 15 PASSANGERS 2024,"Ford TRANSIT 15 PASSANGERS 2024
+38991870,Ford TRANSIT  2024,"Ford TRANSIT  2024
 KM: 36522",in stock,used,69995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/ford/transit/ford-transit-2024-id38991870,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/ford/transit/2024/38991870/38991870_05621_2024-ford-transit_001.jpg,Kennebec Dodge Chrysler
 38927602,Hyundai SANTA FE SEL  2022,"Hyundai SANTA FE SEL  2022
 KM: 102410",in stock,used,23995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/hyundai/santa-fe-sel/hyundai-santa-fe-sel-2022-id38927602,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/hyundai/santa-fe-sel/2022/38927602/38927602_00933_2022-hyundai-santa-fe-sel_001.jpg,Kennebec Dodge Chrysler
