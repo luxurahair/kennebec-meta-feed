@@ -1,6 +1,8 @@
 id,title,description,availability,condition,price,link,image_link,brand
 39535679,Jeep Grand Cherokee Limited X 2021,"Jeep Grand Cherokee Limited X 2021
 KM: 109031",in stock,used,31995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/grand-cherokee/jeep-grand-cherokee-2021-id39535679,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/grand-cherokee-limited/2021/39535679/39535679_06480_2021-jeep-grand-cherokee-limited_001.jpg,Kennebec Dodge Chrysler
+39508560,Jeep GRAND CHEROKEE LAREDO  2021,"Jeep GRAND CHEROKEE LAREDO  2021
+KM: 47000",in stock,used,27995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/grand-cherokee-laredo/jeep-grand-cherokee-laredo-2021-id39508560,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/grand-cherokee-laredo/2021/39508560/39508560_06905_2021-jeep-grand-cherokee-laredo_001.jpg,Kennebec Dodge Chrysler
 39433830,Jeep COMPASS TRAILHAWK  2021,"Jeep COMPASS TRAILHAWK  2021
 KM: 28108",in stock,used,21995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/compass-trailhawk/jeep-compass-trailhawk-2021-id39433830,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/compass/2021/39433830/39433830_00039_2021-jeep-compass_001.jpg,Kennebec Dodge Chrysler
 39404634,Jeep WRANGLER SPORT  2024,"Jeep WRANGLER SPORT  2024
@@ -17,8 +19,6 @@ KM: 1412",in stock,used,55995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occ
 KM: 40",in stock,used,58995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/wrangler-4xe/jeep-wrangler-4xe-2025-id38386682,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/wrangler-sport-4xe/2025/38386682/38386682_00309_2025-jeep-wrangler-sport-4xe_001.jpg,Kennebec Dodge Chrysler
 37476810,Jeep WRANGLER 4XE WILLYS 2024,"Jeep WRANGLER 4XE WILLYS 2024
 KM: 48106",in stock,used,38995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/wrangler-4xe/jeep-wrangler-4xe-2024-id37476810,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/jeep/wrangler-4xe/2024/37476810/37476810_00542_2024-jeep-wrangler-4xe_022.png,Kennebec Dodge Chrysler
-39508560,Jeep GRAND CHEROKEE LAREDO  2021,"Jeep GRAND CHEROKEE LAREDO  2021
-KM: 47000",in stock,used,27995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/jeep/grand-cherokee-laredo/jeep-grand-cherokee-laredo-2021-id39508560,https://img.sm360.ca/images/web/kennebecdodgechryslerincorporated-203/4138/logo-header1690909139246.png,Kennebec Dodge Chrysler
 39157683,Chrysler GRAND CARAVAN SXT  2026,"Chrysler GRAND CARAVAN SXT  2026
 KM: 1252",in stock,used,47485 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/chrysler/grand-caravan-sxt/chrysler-grand-caravan-sxt-2026-id39157683,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/chrysler/grand-caravan-sxt/2026/39157683/39157683_08406_2026-chrysler-grand-caravan-sxt_001.jpg,Kennebec Dodge Chrysler
 38853663,Chrysler 200 LIMITED  2015,"Chrysler 200 LIMITED  2015
@@ -30,13 +30,13 @@ KM: 69736",in stock,used,37995 CAD,https://www.kennebecdodge.ca/fr/inventaire-oc
 38126197,Dodge CHALLENGER R/T SCAT PACK BLANC 2023,"Dodge CHALLENGER R/T SCAT PACK BLANC 2023
 KM: 11500",in stock,used,74995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/challenger-rt-scat-pack/dodge-challenger-rt-scat-pack-2023-id38126197,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/challenger-r-t-scat-pack/2023/38126197/38126197_04125_2023-dodge-challenger-r-t-scat-pack_027.png,Kennebec Dodge Chrysler
 37482214,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
-KM: 22",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482214,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet-r-t-plus/2024/37482214/37482214_01246_2024-dodge-hornet-r-t-plus_001.png,Kennebec Dodge Chrysler
-37482211,Dodge HORNET R/T  2024,"Dodge HORNET R/T  2024
-KM: 22",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt/dodge-hornet-rt-2024-id37482211,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482211/37482211_08986_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
-37482213,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
-KM: 22",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482213,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482213/37482213_01788_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
+KM: 1248",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482214,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet-r-t-plus/2024/37482214/37482214_01246_2024-dodge-hornet-r-t-plus_001.png,Kennebec Dodge Chrysler
 37482212,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
-KM: 22",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482212,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482212/37482212_01393_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
+KM: 8798",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482212,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482212/37482212_01393_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
+37482211,Dodge HORNET R/T  2024,"Dodge HORNET R/T  2024
+KM: 8425",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt/dodge-hornet-rt-2024-id37482211,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482211/37482211_08986_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
+37482213,Dodge HORNET R/T PLUS  2024,"Dodge HORNET R/T PLUS  2024
+KM: 7369",in stock,used,37495 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/hornet-rt-plus/dodge-hornet-rt-plus-2024-id37482213,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/hornet/2024/37482213/37482213_01788_2024-dodge-hornet_001.png,Kennebec Dodge Chrysler
 35500074,Dodge CHALLENGER R/T SCAT PACK  2023,"Dodge CHALLENGER R/T SCAT PACK  2023
 KM: 1800",in stock,used,69995 CAD,https://www.kennebecdodge.ca/fr/inventaire-occasion/dodge/challenger-rt-scat-pack/dodge-challenger-rt-scat-pack-2023-id35500074,https://img.sm360.ca/images/inventory/kennebecdodgechryslerincorporated-508/dodge/challenger-r-t-scat-pack/2023/35500074/35500074_08166_2023-dodge-challenger-r-t-scat-pack_029.png,Kennebec Dodge Chrysler
 39496706,Ram 2500 BIG HORN/LONE STAR CUMMINS 2022,"Ram 2500 BIG HORN/LONE STAR CUMMINS 2022
